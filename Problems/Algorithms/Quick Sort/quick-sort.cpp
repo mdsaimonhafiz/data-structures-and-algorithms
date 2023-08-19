@@ -1,9 +1,9 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
-main()
+int main()
 {
-	cout << "give me a bottle of rum!" << endl;
+	cout << "Debug setup"<<endl;
 	return 0;
 }
