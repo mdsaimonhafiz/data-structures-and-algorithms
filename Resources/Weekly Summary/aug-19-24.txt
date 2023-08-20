@@ -1,0 +1,49 @@
+Upcoming Revise Date : 25 August, Friday 2023
+
+Today-1: 19 August, Saturday 2023
+==================================
+
+
+
+Markdown Documentation Notes: [Ref](https://www.markdownguide.org/basic-syntax)
+
+Heading:   (1)markdown vs html => <h1>sony</h1> == #sony
+--------
+           (2) 6 stage heading => # h1 .... ###### h6 
+           (3)  ----h2---- or ====h1====   
+
+
+
+
+Code:
+-----
+            (1) `code`
+            (2) `` code ``
+
+
+Links:
+------
+            (1) [linkName](address "title tooltip")
+
+Lists:
+------
+            (1) 1.
+                2.
+                    -
+                    -
+                3.
+                4.
+                    -
+                        a.
+                        b.
+                        c.
+                5.
+
+
+Algorithms:
+-----------
+
+
+Today-2: 20 August, Sunday 2023
+==================================
+
